@@ -1,4 +1,7 @@
-## Hi there 👋
+## Ross Rezvani
+
+This is the personal github of Ross Rezvani, Computer Science student at the University of Houston.
+
 
 <!--
 **rossvc/rossvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
